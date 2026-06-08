@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_description">JARVIS uses this to control your phone — tapping, swiping, opening apps, and reading the screen to run your commands and agents.</string>
+</resources>
